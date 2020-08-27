@@ -215,6 +215,8 @@
     display: flex;
     justify-content: center;
 
+    overflow-anchor: none;
+
     margin-top: 30px;
 
     width: 100%;
